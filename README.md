@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Remi-deronzier
-- 👀 I’m interested in the field of connected objects as well as mobile apps related to endurance sport. Indeed, I am a passionate triathlete.
+- 👀 I’m interested in the field of connected objects as well as mobile apps related to endurance sport. Indeed, I love triathlon.
 - 🌱 I’m a web and mobile developer. I specialized in cross-plateform mobile development with the `Flutter` framework. I know the Javascript ecosystem (`Node.js`, `React`, `React native`, `Expo`, `Express` and `MongoDB`). Always eager to learn more about the world of programming and in particular about how to properly architect your code (SOLID principle, OOP, clean code, TDD...) to make it as maintainable and scalable as possible, I also learnt about the `Java` / `Spring` back-end development ecosystem.
 - 📫 How to reach me:
   -  deronzier.remi@gmail.com
